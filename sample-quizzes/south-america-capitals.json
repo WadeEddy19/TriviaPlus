@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "title": "South America by Capital",
+  "description": "Name the sovereign country of South America for each capital city.",
+  "timeLimitSeconds": 180,
+  "answerLabel": "Country",
+  "hintLabel": "Capital",
+  "answers": [
+    {
+      "display": "Argentina",
+      "aliases": [],
+      "hint": "Buenos Aires"
+    },
+    {
+      "display": "Bolivia",
+      "aliases": [],
+      "hint": "Sucre / La Paz"
+    },
+    {
+      "display": "Brazil",
+      "aliases": [
+        "Brasil"
+      ],
+      "hint": "Brasília"
+    },
+    {
+      "display": "Chile",
+      "aliases": [],
+      "hint": "Santiago"
+    },
+    {
+      "display": "Colombia",
+      "aliases": [
+        "Columbia"
+      ],
+      "hint": "Bogotá"
+    },
+    {
+      "display": "Ecuador",
+      "aliases": [],
+      "hint": "Quito"
+    },
+    {
+      "display": "Guyana",
+      "aliases": [],
+      "hint": "Georgetown"
+    },
+    {
+      "display": "Paraguay",
+      "aliases": [],
+      "hint": "Asunción"
+    },
+    {
+      "display": "Peru",
+      "aliases": [
+        "Perú"
+      ],
+      "hint": "Lima"
+    },
+    {
+      "display": "Suriname",
+      "aliases": [
+        "Surinam"
+      ],
+      "hint": "Paramaribo"
+    },
+    {
+      "display": "Uruguay",
+      "aliases": [],
+      "hint": "Montevideo"
+    },
+    {
+      "display": "Venezuela",
+      "aliases": [],
+      "hint": "Caracas"
+    }
+  ]
+}

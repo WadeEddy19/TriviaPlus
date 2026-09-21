@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "title": "Colors of the Rainbow (Quick Test)",
+  "description": "Name the seven colors of the rainbow (ROYGBIV). A short quiz for testing.",
+  "timeLimitSeconds": 60,
+  "answerLabel": "Color",
+  "answers": [
+    {
+      "display": "Red",
+      "aliases": []
+    },
+    {
+      "display": "Orange",
+      "aliases": []
+    },
+    {
+      "display": "Yellow",
+      "aliases": []
+    },
+    {
+      "display": "Green",
+      "aliases": []
+    },
+    {
+      "display": "Blue",
+      "aliases": []
+    },
+    {
+      "display": "Indigo",
+      "aliases": []
+    },
+    {
+      "display": "Violet",
+      "aliases": [
+        "Purple"
+      ]
+    }
+  ]
+}

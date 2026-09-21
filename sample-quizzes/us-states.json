@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "title": "US States",
+  "description": "Name all 50 US states.",
+  "timeLimitSeconds": 480,
+  "answerLabel": "State",
+  "answers": [
+    {
+      "display": "Alabama",
+      "aliases": []
+    },
+    {
+      "display": "Alaska",
+      "aliases": []
+    },
+    {
+      "display": "Arizona",
+      "aliases": []
+    },
+    {
+      "display": "Arkansas",
+      "aliases": []
+    },
+    {
+      "display": "California",
+      "aliases": []
+    },
+    {
+      "display": "Colorado",
+      "aliases": []
+    },
+    {
+      "display": "Connecticut",
+      "aliases": [
+        "Conneticut"
+      ]
+    },
+    {
+      "display": "Delaware",
+      "aliases": []
+    },
+    {
+      "display": "Florida",
+      "aliases": []
+    },
+    {
+      "display": "Georgia",
+      "aliases": []
+    },
+    {
+      "display": "Hawaii",
+      "aliases": [
+        "Hawaiʻi"
+      ]
+    },
+    {
+      "display": "Idaho",
+      "aliases": []
+    },
+    {
+      "display": "Illinois",
+      "aliases": []
+    },
+    {
+      "display": "Indiana",
+      "aliases": []
+    },
+    {
+      "display": "Iowa",
+      "aliases": []
+    },
+    {
+      "display": "Kansas",
+      "aliases": []
+    },
+    {
+      "display": "Kentucky",
+      "aliases": []
+    },
+    {
+      "display": "Louisiana",
+      "aliases": []
+    },
+    {
+      "display": "Maine",
+      "aliases": []
+    },
+    {
+      "display": "Maryland",
+      "aliases": []
+    },
+    {
+      "display": "Massachusetts",
+      "aliases": [
+        "Massachusets",
+        "Massachussetts"
+      ]
+    },
+    {
+      "display": "Michigan",
+      "aliases": []
+    },
+    {
+      "display": "Minnesota",
+      "aliases": []
+    },
+    {
+      "display": "Mississippi",
+      "aliases": [
+        "Missisippi"
+      ]
+    },
+    {
+      "display": "Missouri",
+      "aliases": []
+    },
+    {
+      "display": "Montana",
+      "aliases": []
+    },
+    {
+      "display": "Nebraska",
+      "aliases": []
+    },
+    {
+      "display": "Nevada",
+      "aliases": []
+    },
+    {
+      "display": "New Hampshire",
+      "aliases": []
+    },
+    {
+      "display": "New Jersey",
+      "aliases": []
+    },
+    {
+      "display": "New Mexico",
+      "aliases": []
+    },
+    {
+      "display": "New York",
+      "aliases": []
+    },
+    {
+      "display": "North Carolina",
+      "aliases": []
+    },
+    {
+      "display": "North Dakota",
+      "aliases": []
+    },
+    {
+      "display": "Ohio",
+      "aliases": []
+    },
+    {
+      "display": "Oklahoma",
+      "aliases": []
+    },
+    {
+      "display": "Oregon",
+      "aliases": []
+    },
+    {
+      "display": "Pennsylvania",
+      "aliases": [
+        "Pensylvania"
+      ]
+    },
+    {
+      "display": "Rhode Island",
+      "aliases": []
+    },
+    {
+      "display": "South Carolina",
+      "aliases": []
+    },
+    {
+      "display": "South Dakota",
+      "aliases": []
+    },
+    {
+      "display": "Tennessee",
+      "aliases": [
+        "Tennesee"
+      ]
+    },
+    {
+      "display": "Texas",
+      "aliases": []
+    },
+    {
+      "display": "Utah",
+      "aliases": []
+    },
+    {
+      "display": "Vermont",
+      "aliases": []
+    },
+    {
+      "display": "Virginia",
+      "aliases": []
+    },
+    {
+      "display": "Washington",
+      "aliases": [
+        "Washington State"
+      ]
+    },
+    {
+      "display": "West Virginia",
+      "aliases": []
+    },
+    {
+      "display": "Wisconsin",
+      "aliases": []
+    },
+    {
+      "display": "Wyoming",
+      "aliases": []
+    }
+  ]
+}
