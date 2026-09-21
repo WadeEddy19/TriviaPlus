@@ -1,0 +1,660 @@
+{
+  "schemaVersion": 1,
+  "title": "Artists of the 2010s by Hit Song",
+  "description": "Name the artist behind each hit song. Every song was released between 2010 and 2020.",
+  "timeLimitSeconds": 720,
+  "answerLabel": "Artist",
+  "hintLabel": "Hit song",
+  "answers": [
+    {
+      "display": "Adele",
+      "aliases": [],
+      "hint": "Rolling in the Deep"
+    },
+    {
+      "display": "Ed Sheeran",
+      "aliases": [
+        "Sheeran"
+      ],
+      "hint": "Shape of You"
+    },
+    {
+      "display": "Taylor Swift",
+      "aliases": [
+        "Swift",
+        "Taylor"
+      ],
+      "hint": "Shake It Off"
+    },
+    {
+      "display": "Katy Perry",
+      "aliases": [
+        "Perry",
+        "Katy"
+      ],
+      "hint": "Firework"
+    },
+    {
+      "display": "Rihanna",
+      "aliases": [
+        "RiRi"
+      ],
+      "hint": "Diamonds"
+    },
+    {
+      "display": "Drake",
+      "aliases": [],
+      "hint": "Hotline Bling"
+    },
+    {
+      "display": "Justin Bieber",
+      "aliases": [
+        "Bieber"
+      ],
+      "hint": "Sorry"
+    },
+    {
+      "display": "The Weeknd",
+      "aliases": [
+        "The Weekend"
+      ],
+      "hint": "Blinding Lights"
+    },
+    {
+      "display": "Lady Gaga",
+      "aliases": [
+        "Gaga"
+      ],
+      "hint": "Born This Way"
+    },
+    {
+      "display": "Beyoncé",
+      "aliases": [
+        "Beyonce Knowles"
+      ],
+      "hint": "Formation"
+    },
+    {
+      "display": "Pharrell Williams",
+      "aliases": [
+        "Pharrell"
+      ],
+      "hint": "Happy"
+    },
+    {
+      "display": "Mark Ronson",
+      "aliases": [
+        "Ronson"
+      ],
+      "hint": "Uptown Funk"
+    },
+    {
+      "display": "Carly Rae Jepsen",
+      "aliases": [
+        "Jepsen",
+        "Carly Rae"
+      ],
+      "hint": "Call Me Maybe"
+    },
+    {
+      "display": "Gotye",
+      "aliases": [],
+      "hint": "Somebody That I Used to Know"
+    },
+    {
+      "display": "PSY",
+      "aliases": [],
+      "hint": "Gangnam Style"
+    },
+    {
+      "display": "Macklemore & Ryan Lewis",
+      "aliases": [
+        "Macklemore"
+      ],
+      "hint": "Thrift Shop"
+    },
+    {
+      "display": "Lorde",
+      "aliases": [],
+      "hint": "Royals"
+    },
+    {
+      "display": "Imagine Dragons",
+      "aliases": [],
+      "hint": "Radioactive"
+    },
+    {
+      "display": "Sia",
+      "aliases": [],
+      "hint": "Chandelier"
+    },
+    {
+      "display": "Meghan Trainor",
+      "aliases": [
+        "Megan Trainor"
+      ],
+      "hint": "All About That Bass"
+    },
+    {
+      "display": "Wiz Khalifa",
+      "aliases": [
+        "Khalifa",
+        "Wiz"
+      ],
+      "hint": "See You Again"
+    },
+    {
+      "display": "Charlie Puth",
+      "aliases": [
+        "Puth"
+      ],
+      "hint": "Attention"
+    },
+    {
+      "display": "Post Malone",
+      "aliases": [
+        "Malone"
+      ],
+      "hint": "Rockstar"
+    },
+    {
+      "display": "Billie Eilish",
+      "aliases": [
+        "Eilish",
+        "Billie"
+      ],
+      "hint": "Bad Guy"
+    },
+    {
+      "display": "Lil Nas X",
+      "aliases": [
+        "Lil Nas"
+      ],
+      "hint": "Old Town Road"
+    },
+    {
+      "display": "Dua Lipa",
+      "aliases": [
+        "Lipa"
+      ],
+      "hint": "New Rules"
+    },
+    {
+      "display": "Camila Cabello",
+      "aliases": [
+        "Cabello",
+        "Camila"
+      ],
+      "hint": "Havana"
+    },
+    {
+      "display": "Shawn Mendes",
+      "aliases": [
+        "Mendes"
+      ],
+      "hint": "Stitches"
+    },
+    {
+      "display": "Luis Fonsi",
+      "aliases": [
+        "Fonsi"
+      ],
+      "hint": "Despacito"
+    },
+    {
+      "display": "Kendrick Lamar",
+      "aliases": [
+        "Kendrick",
+        "Lamar"
+      ],
+      "hint": "HUMBLE."
+    },
+    {
+      "display": "Childish Gambino",
+      "aliases": [
+        "Gambino",
+        "Donald Glover"
+      ],
+      "hint": "This Is America"
+    },
+    {
+      "display": "Cardi B",
+      "aliases": [
+        "Cardi"
+      ],
+      "hint": "Bodak Yellow"
+    },
+    {
+      "display": "Travis Scott",
+      "aliases": [],
+      "hint": "Sicko Mode"
+    },
+    {
+      "display": "Ariana Grande",
+      "aliases": [
+        "Ariana",
+        "Grande"
+      ],
+      "hint": "Thank U, Next"
+    },
+    {
+      "display": "Sam Smith",
+      "aliases": [],
+      "hint": "Stay with Me"
+    },
+    {
+      "display": "Hozier",
+      "aliases": [],
+      "hint": "Take Me to Church"
+    },
+    {
+      "display": "John Legend",
+      "aliases": [
+        "Legend"
+      ],
+      "hint": "All of Me"
+    },
+    {
+      "display": "Avicii",
+      "aliases": [],
+      "hint": "Wake Me Up"
+    },
+    {
+      "display": "Daft Punk",
+      "aliases": [],
+      "hint": "Get Lucky"
+    },
+    {
+      "display": "Robin Thicke",
+      "aliases": [
+        "Thicke"
+      ],
+      "hint": "Blurred Lines"
+    },
+    {
+      "display": "Miley Cyrus",
+      "aliases": [
+        "Miley",
+        "Cyrus"
+      ],
+      "hint": "Wrecking Ball"
+    },
+    {
+      "display": "Kesha",
+      "aliases": [
+        "Ke$ha"
+      ],
+      "hint": "Die Young"
+    },
+    {
+      "display": "LMFAO",
+      "aliases": [],
+      "hint": "Party Rock Anthem"
+    },
+    {
+      "display": "Pitbull",
+      "aliases": [
+        "Mr. Worldwide"
+      ],
+      "hint": "Give Me Everything"
+    },
+    {
+      "display": "Flo Rida",
+      "aliases": [],
+      "hint": "Whistle"
+    },
+    {
+      "display": "fun.",
+      "aliases": [],
+      "hint": "We Are Young"
+    },
+    {
+      "display": "Maroon 5",
+      "aliases": [
+        "Maroon Five"
+      ],
+      "hint": "Moves Like Jagger"
+    },
+    {
+      "display": "OneRepublic",
+      "aliases": [
+        "One Republic"
+      ],
+      "hint": "Counting Stars"
+    },
+    {
+      "display": "Foster the People",
+      "aliases": [],
+      "hint": "Pumped Up Kicks"
+    },
+    {
+      "display": "The Chainsmokers",
+      "aliases": [
+        "Chain Smokers"
+      ],
+      "hint": "Closer"
+    },
+    {
+      "display": "Twenty One Pilots",
+      "aliases": [
+        "21 Pilots"
+      ],
+      "hint": "Stressed Out"
+    },
+    {
+      "display": "Walk the Moon",
+      "aliases": [],
+      "hint": "Shut Up and Dance"
+    },
+    {
+      "display": "Passenger",
+      "aliases": [],
+      "hint": "Let Her Go"
+    },
+    {
+      "display": "MAGIC!",
+      "aliases": [],
+      "hint": "Rude"
+    },
+    {
+      "display": "Taio Cruz",
+      "aliases": [],
+      "hint": "Dynamite"
+    },
+    {
+      "display": "CeeLo Green",
+      "aliases": [
+        "Cee Lo Green",
+        "CeeLo",
+        "Cee Lo"
+      ],
+      "hint": "Forget You"
+    },
+    {
+      "display": "Nicki Minaj",
+      "aliases": [
+        "Minaj",
+        "Nicki"
+      ],
+      "hint": "Super Bass"
+    },
+    {
+      "display": "Eminem",
+      "aliases": [
+        "Slim Shady"
+      ],
+      "hint": "Love the Way You Lie"
+    },
+    {
+      "display": "Lana Del Rey",
+      "aliases": [
+        "Del Rey"
+      ],
+      "hint": "Video Games"
+    },
+    {
+      "display": "Florence + the Machine",
+      "aliases": [
+        "Florence and the Machine",
+        "Florence"
+      ],
+      "hint": "Shake It Out"
+    },
+    {
+      "display": "Mumford & Sons",
+      "aliases": [
+        "Mumford"
+      ],
+      "hint": "I Will Wait"
+    },
+    {
+      "display": "The Lumineers",
+      "aliases": [],
+      "hint": "Ho Hey"
+    },
+    {
+      "display": "Of Monsters and Men",
+      "aliases": [],
+      "hint": "Little Talks"
+    },
+    {
+      "display": "Portugal. The Man",
+      "aliases": [
+        "Portugal"
+      ],
+      "hint": "Feel It Still"
+    },
+    {
+      "display": "Glass Animals",
+      "aliases": [],
+      "hint": "Heat Waves"
+    },
+    {
+      "display": "Harry Styles",
+      "aliases": [
+        "Styles"
+      ],
+      "hint": "Watermelon Sugar"
+    },
+    {
+      "display": "Lizzo",
+      "aliases": [],
+      "hint": "Truth Hurts"
+    },
+    {
+      "display": "Doja Cat",
+      "aliases": [
+        "Doja"
+      ],
+      "hint": "Say So"
+    },
+    {
+      "display": "Megan Thee Stallion",
+      "aliases": [
+        "Megan the Stallion"
+      ],
+      "hint": "Savage"
+    },
+    {
+      "display": "Roddy Ricch",
+      "aliases": [
+        "Roddy Rich"
+      ],
+      "hint": "The Box"
+    },
+    {
+      "display": "Tones and I",
+      "aliases": [],
+      "hint": "Dance Monkey"
+    },
+    {
+      "display": "Lewis Capaldi",
+      "aliases": [
+        "Capaldi"
+      ],
+      "hint": "Someone You Loved"
+    },
+    {
+      "display": "Marshmello",
+      "aliases": [
+        "Marshmallow"
+      ],
+      "hint": "Happier"
+    },
+    {
+      "display": "Halsey",
+      "aliases": [],
+      "hint": "Without Me"
+    },
+    {
+      "display": "Khalid",
+      "aliases": [],
+      "hint": "Location"
+    },
+    {
+      "display": "Selena Gomez",
+      "aliases": [
+        "Selena",
+        "Gomez"
+      ],
+      "hint": "Lose You to Love Me"
+    },
+    {
+      "display": "Demi Lovato",
+      "aliases": [
+        "Lovato",
+        "Demi"
+      ],
+      "hint": "Sorry Not Sorry"
+    },
+    {
+      "display": "Zedd",
+      "aliases": [],
+      "hint": "The Middle"
+    },
+    {
+      "display": "Clean Bandit",
+      "aliases": [],
+      "hint": "Rather Be"
+    },
+    {
+      "display": "Calvin Harris",
+      "aliases": [
+        "Harris"
+      ],
+      "hint": "Summer"
+    },
+    {
+      "display": "David Guetta",
+      "aliases": [
+        "Guetta"
+      ],
+      "hint": "Titanium"
+    },
+    {
+      "display": "Ellie Goulding",
+      "aliases": [
+        "Goulding"
+      ],
+      "hint": "Love Me Like You Do"
+    },
+    {
+      "display": "Jason Derulo",
+      "aliases": [
+        "Derulo"
+      ],
+      "hint": "Talk Dirty"
+    },
+    {
+      "display": "Iggy Azalea",
+      "aliases": [
+        "Azalea",
+        "Iggy"
+      ],
+      "hint": "Fancy"
+    },
+    {
+      "display": "Fetty Wap",
+      "aliases": [
+        "Fetty"
+      ],
+      "hint": "Trap Queen"
+    },
+    {
+      "display": "Silentó",
+      "aliases": [],
+      "hint": "Watch Me (Whip/Nae Nae)"
+    },
+    {
+      "display": "Justin Timberlake",
+      "aliases": [
+        "Timberlake",
+        "JT"
+      ],
+      "hint": "Can't Stop the Feeling!"
+    },
+    {
+      "display": "Panic! at the Disco",
+      "aliases": [
+        "Panic"
+      ],
+      "hint": "High Hopes"
+    },
+    {
+      "display": "Fall Out Boy",
+      "aliases": [],
+      "hint": "Centuries"
+    },
+    {
+      "display": "Arctic Monkeys",
+      "aliases": [],
+      "hint": "Do I Wanna Know?"
+    },
+    {
+      "display": "Tame Impala",
+      "aliases": [],
+      "hint": "The Less I Know the Better"
+    },
+    {
+      "display": "Kanye West",
+      "aliases": [
+        "Kanye",
+        "Ye"
+      ],
+      "hint": "Power"
+    },
+    {
+      "display": "Juice WRLD",
+      "aliases": [
+        "Juice World"
+      ],
+      "hint": "Lucid Dreams"
+    },
+    {
+      "display": "One Direction",
+      "aliases": [
+        "1D",
+        "1 Direction"
+      ],
+      "hint": "What Makes You Beautiful"
+    },
+    {
+      "display": "Coldplay",
+      "aliases": [],
+      "hint": "Paradise"
+    },
+    {
+      "display": "The Neighbourhood",
+      "aliases": [
+        "The Neighborhood"
+      ],
+      "hint": "Sweater Weather"
+    },
+    {
+      "display": "Christina Perri",
+      "aliases": [
+        "Perri"
+      ],
+      "hint": "A Thousand Years"
+    },
+    {
+      "display": "Shakira",
+      "aliases": [],
+      "hint": "Waka Waka"
+    },
+    {
+      "display": "BTS",
+      "aliases": [
+        "Bangtan Boys"
+      ],
+      "hint": "Boy with Luv"
+    },
+    {
+      "display": "J. Cole",
+      "aliases": [
+        "JCole"
+      ],
+      "hint": "No Role Modelz"
+    }
+  ]
+}

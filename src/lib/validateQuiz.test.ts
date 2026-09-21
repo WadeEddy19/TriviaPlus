@@ -132,10 +132,10 @@ describe('validateQuiz', () => {
     ).toHaveLength(0);
   });
 
-  it('accepts every sample quiz', () => {
-    const dir = fileURLToPath(new URL('../../sample-quizzes', import.meta.url));
+  it.each(['sample-quizzes', 'quizzes'])('accepts every quiz in %s/', (folder) => {
+    const dir = fileURLToPath(new URL(`../../${folder}`, import.meta.url));
     const files = readdirSync(dir).filter((f) => f.endsWith('.json'));
-    expect(files.length).toBeGreaterThanOrEqual(3);
+    expect(files.length).toBeGreaterThan(0);
     for (const f of files) {
       const r = parseQuizFile(readFileSync(join(dir, f), 'utf8'));
       expect(r.ok ? [] : r.errors, f).toEqual([]);
