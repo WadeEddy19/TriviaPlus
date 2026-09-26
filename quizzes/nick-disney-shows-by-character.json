@@ -1,0 +1,569 @@
+{
+  "schemaVersion": 1,
+  "title": "Nickelodeon and Disney Shows by Main Character",
+  "description": "Name the Nickelodeon or Disney show from its main character.",
+  "timeLimitSeconds": 600,
+  "answerLabel": "Show",
+  "hintLabel": "Main Character",
+  "answers": [
+    {
+      "display": "SpongeBob SquarePants",
+      "aliases": [
+        "Sponge Bob"
+      ],
+      "hint": "SpongeBob"
+    },
+    {
+      "display": "Rugrats",
+      "aliases": [],
+      "hint": "Tommy Pickles"
+    },
+    {
+      "display": "Hey Arnold!",
+      "aliases": [],
+      "hint": "Arnold Shortman"
+    },
+    {
+      "display": "Doug",
+      "aliases": [],
+      "hint": "Doug Funnie"
+    },
+    {
+      "display": "The Fairly OddParents",
+      "aliases": [
+        "Fairly Odd Parents"
+      ],
+      "hint": "Timmy Turner"
+    },
+    {
+      "display": "Danny Phantom",
+      "aliases": [],
+      "hint": "Danny Fenton"
+    },
+    {
+      "display": "Avatar: The Last Airbender",
+      "aliases": [
+        "Avatar",
+        "The Last Airbender"
+      ],
+      "hint": "Aang"
+    },
+    {
+      "display": "The Legend of Korra",
+      "aliases": [
+        "Korra"
+      ],
+      "hint": "Korra"
+    },
+    {
+      "display": "Jimmy Neutron",
+      "aliases": [
+        "The Adventures of Jimmy Neutron, Boy Genius",
+        "Jimmy Neutron Boy Genius"
+      ],
+      "hint": "Jimmy Neutron"
+    },
+    {
+      "display": "Invader Zim",
+      "aliases": [],
+      "hint": "Zim"
+    },
+    {
+      "display": "CatDog",
+      "aliases": [],
+      "hint": "CatDog"
+    },
+    {
+      "display": "The Wild Thornberrys",
+      "aliases": [],
+      "hint": "Eliza Thornberry"
+    },
+    {
+      "display": "Rocket Power",
+      "aliases": [],
+      "hint": "Otto Rocket"
+    },
+    {
+      "display": "As Told by Ginger",
+      "aliases": [],
+      "hint": "Ginger Foutley"
+    },
+    {
+      "display": "ChalkZone",
+      "aliases": [],
+      "hint": "Rudy Tabootie"
+    },
+    {
+      "display": "Rocko's Modern Life",
+      "aliases": [],
+      "hint": "Rocko"
+    },
+    {
+      "display": "The Ren & Stimpy Show",
+      "aliases": [
+        "Ren and Stimpy"
+      ],
+      "hint": "Ren and Stimpy"
+    },
+    {
+      "display": "Aaahh!!! Real Monsters",
+      "aliases": [
+        "Real Monsters"
+      ],
+      "hint": "Ickis"
+    },
+    {
+      "display": "The Angry Beavers",
+      "aliases": [],
+      "hint": "Norbert and Daggett"
+    },
+    {
+      "display": "El Tigre",
+      "aliases": [
+        "El Tigre: The Adventures of Manny Rivera"
+      ],
+      "hint": "Manny Rivera"
+    },
+    {
+      "display": "Back at the Barnyard",
+      "aliases": [
+        "Barnyard"
+      ],
+      "hint": "Otis"
+    },
+    {
+      "display": "The Mighty B!",
+      "aliases": [],
+      "hint": "Bessie Higgenbottom"
+    },
+    {
+      "display": "Tak and the Power of Juju",
+      "aliases": [
+        "Tak"
+      ],
+      "hint": "Tak"
+    },
+    {
+      "display": "T.U.F.F. Puppy",
+      "aliases": [],
+      "hint": "Dudley Puppy"
+    },
+    {
+      "display": "Sanjay and Craig",
+      "aliases": [],
+      "hint": "Sanjay Patel"
+    },
+    {
+      "display": "Harvey Beaks",
+      "aliases": [],
+      "hint": "Harvey Beaks"
+    },
+    {
+      "display": "The Loud House",
+      "aliases": [],
+      "hint": "Lincoln Loud"
+    },
+    {
+      "display": "The Casagrandes",
+      "aliases": [],
+      "hint": "Ronnie Anne Santiago"
+    },
+    {
+      "display": "Breadwinners",
+      "aliases": [],
+      "hint": "SwaySway"
+    },
+    {
+      "display": "Henry Danger",
+      "aliases": [
+        "Kid Danger"
+      ],
+      "hint": "Henry Hart"
+    },
+    {
+      "display": "iCarly",
+      "aliases": [],
+      "hint": "Carly Shay"
+    },
+    {
+      "display": "Victorious",
+      "aliases": [],
+      "hint": "Tori Vega"
+    },
+    {
+      "display": "Drake & Josh",
+      "aliases": [],
+      "hint": "Drake Parker"
+    },
+    {
+      "display": "Zoey 101",
+      "aliases": [],
+      "hint": "Zoey Brooks"
+    },
+    {
+      "display": "Ned's Declassified School Survival Guide",
+      "aliases": [
+        "Neds Declassified"
+      ],
+      "hint": "Ned Bigby"
+    },
+    {
+      "display": "The Amanda Show",
+      "aliases": [],
+      "hint": "Amanda"
+    },
+    {
+      "display": "Sam & Cat",
+      "aliases": [],
+      "hint": "Sam Puckett"
+    },
+    {
+      "display": "Big Time Rush",
+      "aliases": [
+        "BTR"
+      ],
+      "hint": "Kendall Knight"
+    },
+    {
+      "display": "The Thundermans",
+      "aliases": [],
+      "hint": "Phoebe Thunderman"
+    },
+    {
+      "display": "Clarissa Explains It All",
+      "aliases": [
+        "Clarissa"
+      ],
+      "hint": "Clarissa Darling"
+    },
+    {
+      "display": "Kenan & Kel",
+      "aliases": [],
+      "hint": "Kenan Rockmore"
+    },
+    {
+      "display": "The Adventures of Pete & Pete",
+      "aliases": [
+        "Pete and Pete"
+      ],
+      "hint": "Pete Wrigley"
+    },
+    {
+      "display": "Blue's Clues",
+      "aliases": [],
+      "hint": "Blue"
+    },
+    {
+      "display": "Dora the Explorer",
+      "aliases": [
+        "Dora"
+      ],
+      "hint": "Dora"
+    },
+    {
+      "display": "Go, Diego, Go!",
+      "aliases": [],
+      "hint": "Diego"
+    },
+    {
+      "display": "PAW Patrol",
+      "aliases": [],
+      "hint": "Ryder"
+    },
+    {
+      "display": "Bubble Guppies",
+      "aliases": [],
+      "hint": "Molly"
+    },
+    {
+      "display": "The Backyardigans",
+      "aliases": [],
+      "hint": "Pablo"
+    },
+    {
+      "display": "Wonder Pets!",
+      "aliases": [],
+      "hint": "Linny"
+    },
+    {
+      "display": "Teenage Mutant Ninja Turtles",
+      "aliases": [
+        "TMNT",
+        "Ninja Turtles"
+      ],
+      "hint": "Leonardo"
+    },
+    {
+      "display": "Phineas and Ferb",
+      "aliases": [],
+      "hint": "Phineas Flynn"
+    },
+    {
+      "display": "Kim Possible",
+      "aliases": [],
+      "hint": "Kim Possible"
+    },
+    {
+      "display": "Gravity Falls",
+      "aliases": [],
+      "hint": "Dipper Pines"
+    },
+    {
+      "display": "Lilo & Stitch: The Series",
+      "aliases": [
+        "Lilo and Stitch"
+      ],
+      "hint": "Lilo Pelekai"
+    },
+    {
+      "display": "Recess",
+      "aliases": [],
+      "hint": "T.J. Detweiler"
+    },
+    {
+      "display": "DuckTales",
+      "aliases": [],
+      "hint": "Scrooge McDuck"
+    },
+    {
+      "display": "Darkwing Duck",
+      "aliases": [],
+      "hint": "Drake Mallard"
+    },
+    {
+      "display": "Chip 'n Dale: Rescue Rangers",
+      "aliases": [
+        "Rescue Rangers",
+        "Chip and Dale Rescue Rangers"
+      ],
+      "hint": "Chip and Dale"
+    },
+    {
+      "display": "TaleSpin",
+      "aliases": [],
+      "hint": "Baloo"
+    },
+    {
+      "display": "Goof Troop",
+      "aliases": [],
+      "hint": "Goofy"
+    },
+    {
+      "display": "Gargoyles",
+      "aliases": [],
+      "hint": "Goliath"
+    },
+    {
+      "display": "The Proud Family",
+      "aliases": [],
+      "hint": "Penny Proud"
+    },
+    {
+      "display": "American Dragon: Jake Long",
+      "aliases": [
+        "American Dragon"
+      ],
+      "hint": "Jake Long"
+    },
+    {
+      "display": "The Emperor's New School",
+      "aliases": [],
+      "hint": "Kuzco"
+    },
+    {
+      "display": "Dave the Barbarian",
+      "aliases": [],
+      "hint": "Dave"
+    },
+    {
+      "display": "Fillmore!",
+      "aliases": [],
+      "hint": "Cornelius Fillmore"
+    },
+    {
+      "display": "Pepper Ann",
+      "aliases": [],
+      "hint": "Pepper Ann Pearson"
+    },
+    {
+      "display": "The Weekenders",
+      "aliases": [],
+      "hint": "Tino Tonitini"
+    },
+    {
+      "display": "Wander Over Yonder",
+      "aliases": [],
+      "hint": "Wander"
+    },
+    {
+      "display": "Star vs. the Forces of Evil",
+      "aliases": [
+        "Star vs Forces of Evil"
+      ],
+      "hint": "Star Butterfly"
+    },
+    {
+      "display": "The Owl House",
+      "aliases": [],
+      "hint": "Luz Noceda"
+    },
+    {
+      "display": "Amphibia",
+      "aliases": [],
+      "hint": "Anne Boonchuy"
+    },
+    {
+      "display": "Big City Greens",
+      "aliases": [],
+      "hint": "Cricket Green"
+    },
+    {
+      "display": "Milo Murphy's Law",
+      "aliases": [],
+      "hint": "Milo Murphy"
+    },
+    {
+      "display": "Randy Cunningham: 9th Grade Ninja",
+      "aliases": [
+        "9th Grade Ninja"
+      ],
+      "hint": "Randy Cunningham"
+    },
+    {
+      "display": "Kick Buttowski: Suburban Daredevil",
+      "aliases": [
+        "Kick Buttowski"
+      ],
+      "hint": "Kick Buttowski"
+    },
+    {
+      "display": "Hannah Montana",
+      "aliases": [],
+      "hint": "Miley Stewart"
+    },
+    {
+      "display": "Lizzie McGuire",
+      "aliases": [],
+      "hint": "Lizzie McGuire"
+    },
+    {
+      "display": "That's So Raven",
+      "aliases": [],
+      "hint": "Raven Baxter"
+    },
+    {
+      "display": "Wizards of Waverly Place",
+      "aliases": [
+        "Wizards"
+      ],
+      "hint": "Alex Russo"
+    },
+    {
+      "display": "The Suite Life of Zack & Cody",
+      "aliases": [
+        "Suite Life",
+        "Suite Life on Deck"
+      ],
+      "hint": "Zack and Cody Martin"
+    },
+    {
+      "display": "Even Stevens",
+      "aliases": [],
+      "hint": "Louis Stevens"
+    },
+    {
+      "display": "Boy Meets World",
+      "aliases": [],
+      "hint": "Cory Matthews"
+    },
+    {
+      "display": "Good Luck Charlie",
+      "aliases": [],
+      "hint": "Teddy Duncan"
+    },
+    {
+      "display": "Jessie",
+      "aliases": [],
+      "hint": "Jessie Prescott"
+    },
+    {
+      "display": "Austin & Ally",
+      "aliases": [],
+      "hint": "Austin Moon"
+    },
+    {
+      "display": "Shake It Up",
+      "aliases": [],
+      "hint": "CeCe Jones"
+    },
+    {
+      "display": "Liv and Maddie",
+      "aliases": [],
+      "hint": "Liv and Maddie Rooney"
+    },
+    {
+      "display": "Girl Meets World",
+      "aliases": [],
+      "hint": "Riley Matthews"
+    },
+    {
+      "display": "Sonny with a Chance",
+      "aliases": [],
+      "hint": "Sonny Munroe"
+    },
+    {
+      "display": "Cory in the House",
+      "aliases": [],
+      "hint": "Cory Baxter"
+    },
+    {
+      "display": "Phil of the Future",
+      "aliases": [],
+      "hint": "Phil Diffy"
+    },
+    {
+      "display": "Andi Mack",
+      "aliases": [],
+      "hint": "Andi Mack"
+    },
+    {
+      "display": "Bunk'd",
+      "aliases": [],
+      "hint": "Emma Ross"
+    },
+    {
+      "display": "K.C. Undercover",
+      "aliases": [],
+      "hint": "K.C. Cooper"
+    },
+    {
+      "display": "Dog with a Blog",
+      "aliases": [],
+      "hint": "Stan"
+    },
+    {
+      "display": "Stuck in the Middle",
+      "aliases": [],
+      "hint": "Harley Diaz"
+    },
+    {
+      "display": "Mickey Mouse Clubhouse",
+      "aliases": [],
+      "hint": "Mickey Mouse"
+    },
+    {
+      "display": "My Life as a Teenage Robot",
+      "aliases": [
+        "Teenage Robot"
+      ],
+      "hint": "Jenny Wakeman"
+    },
+    {
+      "display": "The Penguins of Madagascar",
+      "aliases": [
+        "Penguins of Madagascar"
+      ],
+      "hint": "Skipper"
+    }
+  ]
+}

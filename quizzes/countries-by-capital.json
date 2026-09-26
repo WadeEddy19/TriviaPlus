@@ -1,0 +1,1067 @@
+{
+  "schemaVersion": 1,
+  "title": "Countries by Capital",
+  "description": "Name the country for each capital city. All 193 UN member states.",
+  "timeLimitSeconds": 1200,
+  "answerLabel": "Country",
+  "hintLabel": "Capital",
+  "answers": [
+    {
+      "display": "Afghanistan",
+      "aliases": [],
+      "hint": "Kabul"
+    },
+    {
+      "display": "Albania",
+      "aliases": [],
+      "hint": "Tirana"
+    },
+    {
+      "display": "Algeria",
+      "aliases": [],
+      "hint": "Algiers"
+    },
+    {
+      "display": "Andorra",
+      "aliases": [],
+      "hint": "Andorra la Vella"
+    },
+    {
+      "display": "Angola",
+      "aliases": [],
+      "hint": "Luanda"
+    },
+    {
+      "display": "Antigua and Barbuda",
+      "aliases": [
+        "Antigua"
+      ],
+      "hint": "St. John's"
+    },
+    {
+      "display": "Argentina",
+      "aliases": [],
+      "hint": "Buenos Aires"
+    },
+    {
+      "display": "Armenia",
+      "aliases": [],
+      "hint": "Yerevan"
+    },
+    {
+      "display": "Australia",
+      "aliases": [],
+      "hint": "Canberra"
+    },
+    {
+      "display": "Austria",
+      "aliases": [],
+      "hint": "Vienna"
+    },
+    {
+      "display": "Azerbaijan",
+      "aliases": [],
+      "hint": "Baku"
+    },
+    {
+      "display": "Bahamas",
+      "aliases": [],
+      "hint": "Nassau"
+    },
+    {
+      "display": "Bahrain",
+      "aliases": [],
+      "hint": "Manama"
+    },
+    {
+      "display": "Bangladesh",
+      "aliases": [],
+      "hint": "Dhaka"
+    },
+    {
+      "display": "Barbados",
+      "aliases": [],
+      "hint": "Bridgetown"
+    },
+    {
+      "display": "Belarus",
+      "aliases": [
+        "Byelorussia"
+      ],
+      "hint": "Minsk"
+    },
+    {
+      "display": "Belgium",
+      "aliases": [],
+      "hint": "Brussels"
+    },
+    {
+      "display": "Belize",
+      "aliases": [],
+      "hint": "Belmopan"
+    },
+    {
+      "display": "Benin",
+      "aliases": [],
+      "hint": "Porto-Novo"
+    },
+    {
+      "display": "Bhutan",
+      "aliases": [],
+      "hint": "Thimphu"
+    },
+    {
+      "display": "Bolivia",
+      "aliases": [],
+      "hint": "Sucre / La Paz"
+    },
+    {
+      "display": "Bosnia and Herzegovina",
+      "aliases": [
+        "Bosnia"
+      ],
+      "hint": "Sarajevo"
+    },
+    {
+      "display": "Botswana",
+      "aliases": [],
+      "hint": "Gaborone"
+    },
+    {
+      "display": "Brazil",
+      "aliases": [
+        "Brasil"
+      ],
+      "hint": "Brasília"
+    },
+    {
+      "display": "Brunei",
+      "aliases": [],
+      "hint": "Bandar Seri Begawan"
+    },
+    {
+      "display": "Bulgaria",
+      "aliases": [],
+      "hint": "Sofia"
+    },
+    {
+      "display": "Burkina Faso",
+      "aliases": [],
+      "hint": "Ouagadougou"
+    },
+    {
+      "display": "Burundi",
+      "aliases": [],
+      "hint": "Gitega"
+    },
+    {
+      "display": "Cabo Verde",
+      "aliases": [
+        "Cape Verde"
+      ],
+      "hint": "Praia"
+    },
+    {
+      "display": "Cambodia",
+      "aliases": [],
+      "hint": "Phnom Penh"
+    },
+    {
+      "display": "Cameroon",
+      "aliases": [],
+      "hint": "Yaoundé"
+    },
+    {
+      "display": "Canada",
+      "aliases": [],
+      "hint": "Ottawa"
+    },
+    {
+      "display": "Central African Republic",
+      "aliases": [
+        "CAR"
+      ],
+      "hint": "Bangui"
+    },
+    {
+      "display": "Chad",
+      "aliases": [],
+      "hint": "N'Djamena"
+    },
+    {
+      "display": "Chile",
+      "aliases": [],
+      "hint": "Santiago"
+    },
+    {
+      "display": "China",
+      "aliases": [
+        "PRC",
+        "People's Republic of China"
+      ],
+      "hint": "Beijing"
+    },
+    {
+      "display": "Colombia",
+      "aliases": [],
+      "hint": "Bogotá"
+    },
+    {
+      "display": "Comoros",
+      "aliases": [],
+      "hint": "Moroni"
+    },
+    {
+      "display": "Democratic Republic of the Congo",
+      "aliases": [
+        "DRC",
+        "DR Congo",
+        "Congo-Kinshasa",
+        "Democratic Republic of Congo",
+        "Zaire"
+      ],
+      "hint": "Kinshasa"
+    },
+    {
+      "display": "Republic of the Congo",
+      "aliases": [
+        "Congo",
+        "Congo-Brazzaville",
+        "Republic of Congo"
+      ],
+      "hint": "Brazzaville"
+    },
+    {
+      "display": "Costa Rica",
+      "aliases": [],
+      "hint": "San José"
+    },
+    {
+      "display": "Côte d'Ivoire",
+      "aliases": [
+        "Ivory Coast"
+      ],
+      "hint": "Yamoussoukro"
+    },
+    {
+      "display": "Croatia",
+      "aliases": [],
+      "hint": "Zagreb"
+    },
+    {
+      "display": "Cuba",
+      "aliases": [],
+      "hint": "Havana"
+    },
+    {
+      "display": "Cyprus",
+      "aliases": [],
+      "hint": "Nicosia"
+    },
+    {
+      "display": "Czechia",
+      "aliases": [
+        "Czech Republic"
+      ],
+      "hint": "Prague"
+    },
+    {
+      "display": "Denmark",
+      "aliases": [],
+      "hint": "Copenhagen"
+    },
+    {
+      "display": "Djibouti",
+      "aliases": [],
+      "hint": "Djibouti"
+    },
+    {
+      "display": "Dominica",
+      "aliases": [],
+      "hint": "Roseau"
+    },
+    {
+      "display": "Dominican Republic",
+      "aliases": [],
+      "hint": "Santo Domingo"
+    },
+    {
+      "display": "Ecuador",
+      "aliases": [],
+      "hint": "Quito"
+    },
+    {
+      "display": "Egypt",
+      "aliases": [],
+      "hint": "Cairo"
+    },
+    {
+      "display": "El Salvador",
+      "aliases": [],
+      "hint": "San Salvador"
+    },
+    {
+      "display": "Equatorial Guinea",
+      "aliases": [],
+      "hint": "Malabo"
+    },
+    {
+      "display": "Eritrea",
+      "aliases": [],
+      "hint": "Asmara"
+    },
+    {
+      "display": "Estonia",
+      "aliases": [],
+      "hint": "Tallinn"
+    },
+    {
+      "display": "Eswatini",
+      "aliases": [
+        "Swaziland"
+      ],
+      "hint": "Mbabane"
+    },
+    {
+      "display": "Ethiopia",
+      "aliases": [],
+      "hint": "Addis Ababa"
+    },
+    {
+      "display": "Fiji",
+      "aliases": [],
+      "hint": "Suva"
+    },
+    {
+      "display": "Finland",
+      "aliases": [],
+      "hint": "Helsinki"
+    },
+    {
+      "display": "France",
+      "aliases": [],
+      "hint": "Paris"
+    },
+    {
+      "display": "Gabon",
+      "aliases": [],
+      "hint": "Libreville"
+    },
+    {
+      "display": "Gambia",
+      "aliases": [],
+      "hint": "Banjul"
+    },
+    {
+      "display": "Georgia",
+      "aliases": [],
+      "hint": "Tbilisi"
+    },
+    {
+      "display": "Germany",
+      "aliases": [],
+      "hint": "Berlin"
+    },
+    {
+      "display": "Ghana",
+      "aliases": [],
+      "hint": "Accra"
+    },
+    {
+      "display": "Greece",
+      "aliases": [],
+      "hint": "Athens"
+    },
+    {
+      "display": "Grenada",
+      "aliases": [],
+      "hint": "St. George's"
+    },
+    {
+      "display": "Guatemala",
+      "aliases": [],
+      "hint": "Guatemala City"
+    },
+    {
+      "display": "Guinea",
+      "aliases": [],
+      "hint": "Conakry"
+    },
+    {
+      "display": "Guinea-Bissau",
+      "aliases": [],
+      "hint": "Bissau"
+    },
+    {
+      "display": "Guyana",
+      "aliases": [],
+      "hint": "Georgetown"
+    },
+    {
+      "display": "Haiti",
+      "aliases": [],
+      "hint": "Port-au-Prince"
+    },
+    {
+      "display": "Honduras",
+      "aliases": [],
+      "hint": "Tegucigalpa"
+    },
+    {
+      "display": "Hungary",
+      "aliases": [],
+      "hint": "Budapest"
+    },
+    {
+      "display": "Iceland",
+      "aliases": [],
+      "hint": "Reykjavík"
+    },
+    {
+      "display": "India",
+      "aliases": [],
+      "hint": "New Delhi"
+    },
+    {
+      "display": "Indonesia",
+      "aliases": [],
+      "hint": "Jakarta"
+    },
+    {
+      "display": "Iran",
+      "aliases": [],
+      "hint": "Tehran"
+    },
+    {
+      "display": "Iraq",
+      "aliases": [],
+      "hint": "Baghdad"
+    },
+    {
+      "display": "Ireland",
+      "aliases": [
+        "Republic of Ireland"
+      ],
+      "hint": "Dublin"
+    },
+    {
+      "display": "Israel",
+      "aliases": [],
+      "hint": "Jerusalem"
+    },
+    {
+      "display": "Italy",
+      "aliases": [],
+      "hint": "Rome"
+    },
+    {
+      "display": "Jamaica",
+      "aliases": [],
+      "hint": "Kingston"
+    },
+    {
+      "display": "Japan",
+      "aliases": [],
+      "hint": "Tokyo"
+    },
+    {
+      "display": "Jordan",
+      "aliases": [],
+      "hint": "Amman"
+    },
+    {
+      "display": "Kazakhstan",
+      "aliases": [],
+      "hint": "Astana"
+    },
+    {
+      "display": "Kenya",
+      "aliases": [],
+      "hint": "Nairobi"
+    },
+    {
+      "display": "Kiribati",
+      "aliases": [],
+      "hint": "Tarawa"
+    },
+    {
+      "display": "North Korea",
+      "aliases": [
+        "DPRK"
+      ],
+      "hint": "Pyongyang"
+    },
+    {
+      "display": "South Korea",
+      "aliases": [
+        "Republic of Korea",
+        "ROK"
+      ],
+      "hint": "Seoul"
+    },
+    {
+      "display": "Kuwait",
+      "aliases": [],
+      "hint": "Kuwait City"
+    },
+    {
+      "display": "Kyrgyzstan",
+      "aliases": [
+        "Kyrgyz Republic"
+      ],
+      "hint": "Bishkek"
+    },
+    {
+      "display": "Laos",
+      "aliases": [],
+      "hint": "Vientiane"
+    },
+    {
+      "display": "Latvia",
+      "aliases": [],
+      "hint": "Riga"
+    },
+    {
+      "display": "Lebanon",
+      "aliases": [],
+      "hint": "Beirut"
+    },
+    {
+      "display": "Lesotho",
+      "aliases": [],
+      "hint": "Maseru"
+    },
+    {
+      "display": "Liberia",
+      "aliases": [],
+      "hint": "Monrovia"
+    },
+    {
+      "display": "Libya",
+      "aliases": [],
+      "hint": "Tripoli"
+    },
+    {
+      "display": "Liechtenstein",
+      "aliases": [],
+      "hint": "Vaduz"
+    },
+    {
+      "display": "Lithuania",
+      "aliases": [],
+      "hint": "Vilnius"
+    },
+    {
+      "display": "Luxembourg",
+      "aliases": [],
+      "hint": "Luxembourg"
+    },
+    {
+      "display": "Madagascar",
+      "aliases": [],
+      "hint": "Antananarivo"
+    },
+    {
+      "display": "Malawi",
+      "aliases": [],
+      "hint": "Lilongwe"
+    },
+    {
+      "display": "Malaysia",
+      "aliases": [],
+      "hint": "Kuala Lumpur"
+    },
+    {
+      "display": "Maldives",
+      "aliases": [],
+      "hint": "Malé"
+    },
+    {
+      "display": "Mali",
+      "aliases": [],
+      "hint": "Bamako"
+    },
+    {
+      "display": "Malta",
+      "aliases": [],
+      "hint": "Valletta"
+    },
+    {
+      "display": "Marshall Islands",
+      "aliases": [],
+      "hint": "Majuro"
+    },
+    {
+      "display": "Mauritania",
+      "aliases": [],
+      "hint": "Nouakchott"
+    },
+    {
+      "display": "Mauritius",
+      "aliases": [],
+      "hint": "Port Louis"
+    },
+    {
+      "display": "Mexico",
+      "aliases": [],
+      "hint": "Mexico City"
+    },
+    {
+      "display": "Micronesia",
+      "aliases": [
+        "Federated States of Micronesia",
+        "FSM"
+      ],
+      "hint": "Palikir"
+    },
+    {
+      "display": "Moldova",
+      "aliases": [],
+      "hint": "Chișinău"
+    },
+    {
+      "display": "Monaco",
+      "aliases": [],
+      "hint": "Monaco"
+    },
+    {
+      "display": "Mongolia",
+      "aliases": [],
+      "hint": "Ulaanbaatar"
+    },
+    {
+      "display": "Montenegro",
+      "aliases": [],
+      "hint": "Podgorica"
+    },
+    {
+      "display": "Morocco",
+      "aliases": [],
+      "hint": "Rabat"
+    },
+    {
+      "display": "Mozambique",
+      "aliases": [],
+      "hint": "Maputo"
+    },
+    {
+      "display": "Myanmar",
+      "aliases": [
+        "Burma"
+      ],
+      "hint": "Naypyidaw"
+    },
+    {
+      "display": "Namibia",
+      "aliases": [],
+      "hint": "Windhoek"
+    },
+    {
+      "display": "Nauru",
+      "aliases": [],
+      "hint": "Yaren"
+    },
+    {
+      "display": "Nepal",
+      "aliases": [],
+      "hint": "Kathmandu"
+    },
+    {
+      "display": "Netherlands",
+      "aliases": [
+        "Holland"
+      ],
+      "hint": "Amsterdam"
+    },
+    {
+      "display": "New Zealand",
+      "aliases": [
+        "NZ"
+      ],
+      "hint": "Wellington"
+    },
+    {
+      "display": "Nicaragua",
+      "aliases": [],
+      "hint": "Managua"
+    },
+    {
+      "display": "Niger",
+      "aliases": [],
+      "hint": "Niamey"
+    },
+    {
+      "display": "Nigeria",
+      "aliases": [],
+      "hint": "Abuja"
+    },
+    {
+      "display": "North Macedonia",
+      "aliases": [
+        "Macedonia"
+      ],
+      "hint": "Skopje"
+    },
+    {
+      "display": "Norway",
+      "aliases": [],
+      "hint": "Oslo"
+    },
+    {
+      "display": "Oman",
+      "aliases": [],
+      "hint": "Muscat"
+    },
+    {
+      "display": "Pakistan",
+      "aliases": [],
+      "hint": "Islamabad"
+    },
+    {
+      "display": "Palau",
+      "aliases": [],
+      "hint": "Ngerulmud"
+    },
+    {
+      "display": "Panama",
+      "aliases": [],
+      "hint": "Panama City"
+    },
+    {
+      "display": "Papua New Guinea",
+      "aliases": [
+        "PNG"
+      ],
+      "hint": "Port Moresby"
+    },
+    {
+      "display": "Paraguay",
+      "aliases": [],
+      "hint": "Asunción"
+    },
+    {
+      "display": "Peru",
+      "aliases": [],
+      "hint": "Lima"
+    },
+    {
+      "display": "Philippines",
+      "aliases": [],
+      "hint": "Manila"
+    },
+    {
+      "display": "Poland",
+      "aliases": [],
+      "hint": "Warsaw"
+    },
+    {
+      "display": "Portugal",
+      "aliases": [],
+      "hint": "Lisbon"
+    },
+    {
+      "display": "Qatar",
+      "aliases": [],
+      "hint": "Doha"
+    },
+    {
+      "display": "Romania",
+      "aliases": [],
+      "hint": "Bucharest"
+    },
+    {
+      "display": "Russia",
+      "aliases": [
+        "Russian Federation"
+      ],
+      "hint": "Moscow"
+    },
+    {
+      "display": "Rwanda",
+      "aliases": [],
+      "hint": "Kigali"
+    },
+    {
+      "display": "Saint Kitts and Nevis",
+      "aliases": [
+        "St Kitts and Nevis",
+        "St Kitts",
+        "Saint Kitts"
+      ],
+      "hint": "Basseterre"
+    },
+    {
+      "display": "Saint Lucia",
+      "aliases": [
+        "St Lucia"
+      ],
+      "hint": "Castries"
+    },
+    {
+      "display": "Saint Vincent and the Grenadines",
+      "aliases": [
+        "St Vincent and the Grenadines",
+        "St Vincent",
+        "Saint Vincent"
+      ],
+      "hint": "Kingstown"
+    },
+    {
+      "display": "Samoa",
+      "aliases": [],
+      "hint": "Apia"
+    },
+    {
+      "display": "San Marino",
+      "aliases": [],
+      "hint": "San Marino"
+    },
+    {
+      "display": "São Tomé and Príncipe",
+      "aliases": [
+        "Sao Tome"
+      ],
+      "hint": "São Tomé"
+    },
+    {
+      "display": "Saudi Arabia",
+      "aliases": [],
+      "hint": "Riyadh"
+    },
+    {
+      "display": "Senegal",
+      "aliases": [],
+      "hint": "Dakar"
+    },
+    {
+      "display": "Serbia",
+      "aliases": [],
+      "hint": "Belgrade"
+    },
+    {
+      "display": "Seychelles",
+      "aliases": [],
+      "hint": "Victoria"
+    },
+    {
+      "display": "Sierra Leone",
+      "aliases": [],
+      "hint": "Freetown"
+    },
+    {
+      "display": "Singapore",
+      "aliases": [],
+      "hint": "Singapore"
+    },
+    {
+      "display": "Slovakia",
+      "aliases": [],
+      "hint": "Bratislava"
+    },
+    {
+      "display": "Slovenia",
+      "aliases": [],
+      "hint": "Ljubljana"
+    },
+    {
+      "display": "Solomon Islands",
+      "aliases": [],
+      "hint": "Honiara"
+    },
+    {
+      "display": "Somalia",
+      "aliases": [],
+      "hint": "Mogadishu"
+    },
+    {
+      "display": "South Africa",
+      "aliases": [
+        "RSA"
+      ],
+      "hint": "Pretoria"
+    },
+    {
+      "display": "South Sudan",
+      "aliases": [],
+      "hint": "Juba"
+    },
+    {
+      "display": "Spain",
+      "aliases": [],
+      "hint": "Madrid"
+    },
+    {
+      "display": "Sri Lanka",
+      "aliases": [],
+      "hint": "Sri Jayawardenepura Kotte"
+    },
+    {
+      "display": "Sudan",
+      "aliases": [],
+      "hint": "Khartoum"
+    },
+    {
+      "display": "Suriname",
+      "aliases": [
+        "Surinam"
+      ],
+      "hint": "Paramaribo"
+    },
+    {
+      "display": "Sweden",
+      "aliases": [],
+      "hint": "Stockholm"
+    },
+    {
+      "display": "Switzerland",
+      "aliases": [],
+      "hint": "Bern"
+    },
+    {
+      "display": "Syria",
+      "aliases": [],
+      "hint": "Damascus"
+    },
+    {
+      "display": "Tajikistan",
+      "aliases": [],
+      "hint": "Dushanbe"
+    },
+    {
+      "display": "Tanzania",
+      "aliases": [],
+      "hint": "Dodoma"
+    },
+    {
+      "display": "Thailand",
+      "aliases": [],
+      "hint": "Bangkok"
+    },
+    {
+      "display": "Timor-Leste",
+      "aliases": [
+        "East Timor"
+      ],
+      "hint": "Dili"
+    },
+    {
+      "display": "Togo",
+      "aliases": [],
+      "hint": "Lomé"
+    },
+    {
+      "display": "Tonga",
+      "aliases": [],
+      "hint": "Nuku'alofa"
+    },
+    {
+      "display": "Trinidad and Tobago",
+      "aliases": [
+        "Trinidad"
+      ],
+      "hint": "Port of Spain"
+    },
+    {
+      "display": "Tunisia",
+      "aliases": [],
+      "hint": "Tunis"
+    },
+    {
+      "display": "Türkiye",
+      "aliases": [
+        "Turkey"
+      ],
+      "hint": "Ankara"
+    },
+    {
+      "display": "Turkmenistan",
+      "aliases": [],
+      "hint": "Ashgabat"
+    },
+    {
+      "display": "Tuvalu",
+      "aliases": [],
+      "hint": "Funafuti"
+    },
+    {
+      "display": "Uganda",
+      "aliases": [],
+      "hint": "Kampala"
+    },
+    {
+      "display": "Ukraine",
+      "aliases": [],
+      "hint": "Kyiv"
+    },
+    {
+      "display": "United Arab Emirates",
+      "aliases": [
+        "UAE",
+        "Emirates"
+      ],
+      "hint": "Abu Dhabi"
+    },
+    {
+      "display": "United Kingdom",
+      "aliases": [
+        "UK",
+        "Great Britain",
+        "Britain",
+        "England"
+      ],
+      "hint": "London"
+    },
+    {
+      "display": "United States",
+      "aliases": [
+        "USA",
+        "US",
+        "United States of America",
+        "America"
+      ],
+      "hint": "Washington, D.C."
+    },
+    {
+      "display": "Uruguay",
+      "aliases": [],
+      "hint": "Montevideo"
+    },
+    {
+      "display": "Uzbekistan",
+      "aliases": [],
+      "hint": "Tashkent"
+    },
+    {
+      "display": "Vanuatu",
+      "aliases": [],
+      "hint": "Port Vila"
+    },
+    {
+      "display": "Venezuela",
+      "aliases": [],
+      "hint": "Caracas"
+    },
+    {
+      "display": "Vietnam",
+      "aliases": [
+        "Viet Nam"
+      ],
+      "hint": "Hanoi"
+    },
+    {
+      "display": "Yemen",
+      "aliases": [],
+      "hint": "Sana'a"
+    },
+    {
+      "display": "Zambia",
+      "aliases": [],
+      "hint": "Lusaka"
+    },
+    {
+      "display": "Zimbabwe",
+      "aliases": [],
+      "hint": "Harare"
+    }
+  ]
+}
